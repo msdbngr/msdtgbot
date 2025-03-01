@@ -1,0 +1,14 @@
+├── bot.php
+├── core/
+│   ├── Config.php
+│   ├── Database.php
+│   ├── TelegramBot.php
+│   └── UserManager.php
+└── bot-specific/
+    ├── BotConfig.php
+    ├── MenuManager.php
+    ├── ButtonManager.php
+    ├── BroadcastManager.php
+    ├── SettingsManager.php
+    ├── BackHandler.php
+    └── ContentCollector.php
